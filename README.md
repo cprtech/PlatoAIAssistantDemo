@@ -3,7 +3,7 @@
 A demonstration application for Plato AI Assistant,
 a drop-in ChatGPT-like AI Assistant control for .NET 10.
 
-![Plato AI Assistant](screenshots/plato-assistant.png)
+![Plato AI Assistant](ui-overview.png)
 
 ## Features
 
